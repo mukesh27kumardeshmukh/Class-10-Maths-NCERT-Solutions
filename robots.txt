@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mukesh27kumardeshmukh.github.io/Class-10-Maths-NCERT-Solutions/sitemap.xml
