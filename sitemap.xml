@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+
   <!-- Homepage -->
   <url>
     <loc>https://mukesh27kumardeshmukh.github.io/Class-10-Maths-NCERT-Solutions/</loc>
@@ -8,8 +8,7 @@
     <priority>1.00</priority>
   </url>
 
-  <!-- Agar aur HTML pages add karoge to unka bhi entry yaha kar dena -->
-  <!-- Example:
+  <!-- Example for future pages:
   <url>
     <loc>https://mukesh27kumardeshmukh.github.io/Class-10-Maths-NCERT-Solutions/chapter1.html</loc>
     <lastmod>2025-09-23</lastmod>
